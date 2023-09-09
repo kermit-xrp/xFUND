@@ -2,14 +2,28 @@
 
 #### Summary
 
-This crowdfunding platform is a decentralized application (DApp) that is built on the XRP Ledger. It allows users to create and fund projects, and to receive payments in XRP. The platform is connected to the Xumm wallet API, which allows users to easily deposit and withdraw XRP from their wallets. The platform also uses Global ID for ID verification, which helps to ensure that the users on the platform are who they say they are.
+FundME is a decentralized crowdfunding platform that allows users to create and fund projects, and to receive payments in any cryptocurrency. The platform is built on the Flare Network, which is a scalable and interoperable blockchain that supports smart contracts. FundME uses the Flare Time Series Oracle and State Connector protocols to provide accurate and reliable data for projects, and to ensure that payments are processed securely and efficiently.
 
 #### Key Points
 
-- **`Decentralized:`** The platform is built on the XRP Ledger, which is a decentralized blockchain. This means that the platform is not controlled by any one entity, and it is not subject to censorship.
-- **`Easy to use:`** The platform is designed to be easy to use for both project creators and backers. Project creators can create a project in just a few minutes, and backers can fund projects with just a few clicks.
-- **`Secure:`** The platform uses Global ID for ID verification, which helps to ensure that the users on the platform are who they say they are. This helps to protect both project creators and backers from fraud.
-Benefits for new projects
+The FundME platform works as follows:
+
+- A user creates a project and specifies the amount of funding they need.
+- The user sets the terms of the funding, such as the minimum amount of funding required, the deadline for funding, and the rewards for contributors.
+- Contributors can then pledge their cryptocurrency to support the project.
+- If the project reaches its funding goal, the funds are released to the project creator.
+- If the project does not reach its funding goal, the funds are returned to the contributors.
+
+
+#### Key Functions
+
+The key functions of the FundME platform include:
+
+- Project creation: Users can create projects to raise funds for their ideas or businesses.
+- Project funding: Contributors can pledge their cryptocurrency to support projects.
+- Project rewards: Project creators can offer rewards to contributors, such as equity, tokens, or other benefits.
+- Dispute resolution: The platform provides a mechanism for resolving disputes between project creators and contributors.
+- Cross-chain compatibility: The platform is compatible with multiple cryptocurrencies, allowing contributors to fund projects using their preferred currency.
 
 #### The crowdfunding platform provides a number of benefits for new projects, including:
 
@@ -18,16 +32,10 @@ Benefits for new projects
 - **`Increased transparency:`** The platform is transparent, which means that project creators and backers can see all of the information about a project, including the project's goals, timeline, and budget.
 How it works
 
-#### The crowdfunding platform works as follows:
-
-Project creators create a project on the platform.
-Backers fund the project by sending XRP to the project's address.
-Once the project reaches its funding goal, the XRP is sent to the project creator.
-The project creator uses the XRP to fund their project.
 
 #### Conclusion
 
-The crowdfunding platform is a valuable tool for new projects that are looking to raise funds. The platform is decentralized, easy to use, secure, and provides a number of benefits for new projects.
+FundME is a secure and decentralized crowdfunding platform that allows users to raise funds for their projects without the need for a third party. The platform is built on the Flare Network, which provides the scalability, security, and interoperability that are essential for a successful crowdfunding platform.
 
 #### Steps:
 
