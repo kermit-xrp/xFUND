@@ -37,6 +37,14 @@ How it works
 
 FundME is a secure and decentralized crowdfunding platform that allows users to raise funds for their projects without the need for a third party. The platform is built on the Flare Network, which provides the scalability, security, and interoperability that are essential for a successful crowdfunding platform.
 
+Here are some of the benefits of using FundME:
+
+- **'Secure and decentralized:'** FundME is a decentralized platform, which means that there is no single point of failure. This makes it a more secure platform than traditional crowdfunding platforms, which are often centralized.
+- **'Scalable:'** The Flare Network is a scalable blockchain, which means that FundME can support a large number of projects.
+- **'Interoperable:'** The Flare Network is interoperable with other blockchains, which means that FundME can be used to raise funds for projects that are built on other blockchains.
+- **'Cheap:'** The fees on the Flare Network are very low, which makes FundME a more affordable option than traditional crowdfunding platforms.
+
+
 #### Steps:
 
 - **`Download Node.js`** Run this followed commands:
