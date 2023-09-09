@@ -45,19 +45,6 @@ Here are some of the benefits of using FundME:
 - **'Cheap:'** The fees on the Flare Network are very low, which makes FundME a more affordable option than traditional crowdfunding platforms.
 
 
-#### Steps:
-
-- **`Download Node.js`** Run this followed commands:
-
-- **`Install`** dependencies (only the first time)
-`npm install`
-
-- **`Run`** the local server at localhost:8080
-`npm run dev`
-
-- **`Build`** for production in the dist/ directory
-`npm run build`
-
 #### Working Prototype is available here:
 
 https://xd.adobe.com/view/17fc534f-3291-4078-960f-b51d560c3dd8-42af/?fbclid=IwAR3gS28co9vMH-cAxUagfcVYZdDHrLxD0UmACCfW21rXITLeTngtPuziCLE&fullscreen
