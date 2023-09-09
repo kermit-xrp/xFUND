@@ -1,8 +1,0 @@
-{
-  "name": "xFUND",
-  "version": "1.0.0",
-  "description": "xFUND",
-  "dependencies": {
-    "requests": "latest"
-  }
-}
