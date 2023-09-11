@@ -2,7 +2,7 @@
 
 #### Summary
 
-xFUND is a decentralized crowdfunding platform that allows users to create and fund projects, and to receive payments in any cryptocurrency. The platform is built on the Flare Network, which is a scalable and interoperable blockchain that supports smart contracts. FundME uses the Flare Time Series Oracle and State Connector protocols to provide accurate and reliable data for projects, and to ensure that payments are processed securely and efficiently.
+xFund is a decentralized crowdfunding platform built on the Flare Network. It allows users to create and fund projects, and to receive payments in any cryptocurrency. xFund uses the Flare Time Series Oracle (FTSO), State Connector, and LayerCake protocols to provide accurate and reliable data for projects, ensure cross-chain functionality, and process payments securely and efficiently.
 
 #### Key Points
 
