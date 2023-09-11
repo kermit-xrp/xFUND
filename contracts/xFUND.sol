@@ -1,5 +1,5 @@
 
-contract FundME {
+contract E {
 
   // Events
 
