@@ -1,4 +1,4 @@
-## FundME
+## xFUND: Cross-chain crowdfunding platfrom
 
 #### Summary
 
@@ -6,7 +6,7 @@ FundME is a decentralized crowdfunding platform that allows users to create and 
 
 #### Key Points
 
-The FundME platform works as follows:
+The xFUND platform works as follows:
 
 - A user creates a project and specifies the amount of funding they need.
 - The user sets the terms of the funding, such as the minimum amount of funding required, the deadline for funding, and the rewards for contributors.
@@ -17,7 +17,7 @@ The FundME platform works as follows:
 
 #### Key Functions
 
-The key functions of the FundME platform include:
+The key functions of the xFUND platform include:
 
 - Project creation: Users can create projects to raise funds for their ideas or businesses.
 - Project funding: Contributors can pledge their cryptocurrency to support projects.
@@ -35,7 +35,7 @@ How it works
 
 #### Conclusion
 
-FundME is a secure and decentralized crowdfunding platform that allows users to raise funds for their projects without the need for a third party. The platform is built on the Flare Network, which provides the scalability, security, and interoperability that are essential for a successful crowdfunding platform.
+xFUND is a secure and decentralized crowdfunding platform that allows users to raise funds for their projects without the need for a third party. The platform is built on the Flare Network, which provides the scalability, security, and interoperability that are essential for a successful crowdfunding platform.
 
 Here are some of the benefits of using FundME:
 
