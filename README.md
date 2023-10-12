@@ -39,7 +39,7 @@ xFUND is a secure and decentralized crowdfunding platform that allows users to r
 
 Here are some of the benefits of using FundME:
 
-- **'Secure and decentralized:'** FundME is a decentralized platform, which means that there is no single point of failure. This makes it a more secure platform than traditional crowdfunding platforms, which are often centralized.
+- **'Secure and decentralized:'** xFUND is a decentralized platform, which means that there is no single point of failure. This makes it a more secure platform than traditional crowdfunding platforms, which are often centralized.
 - **'Scalable:'** The Flare Network is a scalable blockchain, which means that FundME can support a large number of projects in the same time.
 - **'Interoperable:'** The Flare Network is interoperable with other blockchains, which means that FundME can be used to raise funds for projects that are built on other blockchains and users can donate or accept any cryptocurrency.
 - **'Cheap:'** The fees on the Flare Network are very low, which makes FundME a more affordable option than traditional crowdfunding platforms.
@@ -47,7 +47,12 @@ Here are some of the benefits of using FundME:
 
 #### Working Prototype is available here:
 
-https://xd.adobe.com/view/17fc534f-3291-4078-960f-b51d560c3dd8-42af/?fbclid=IwAR3gS28co9vMH-cAxUagfcVYZdDHrLxD0UmACCfW21rXITLeTngtPuziCLE&fullscreen
+Mobile version:
+https://www.figma.com/proto/nzBTP5M7ezDeBH7b4FfUxF/Xfund---mobile?type=design&node-id=1-95&t=WXhAYs1dFU0JpwHe-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A95&mode=design
+
+Desktop Version: 
+
+
 
 
 
