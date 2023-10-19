@@ -47,12 +47,13 @@ Here are some of the benefits of using FundME:
 
 #### Working Prototype is available here:
 
-Mobile version:
-https://www.figma.com/proto/nzBTP5M7ezDeBH7b4FfUxF/Xfund---mobile?type=design&node-id=1-95&t=WXhAYs1dFU0JpwHe-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A95&mode=design
+
 
 Desktop Version: 
+https://www.figma.com/proto/VU6Mt73eAQp8VZ7PBeVm8Z/xFUND-(Flare)---desktop?type=design&node-id=133-1248&t=VEUVyxO0cHra6TnP-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=133%3A1253&mode=design
 
 
-
+Mobile version:
+https://www.figma.com/proto/nzBTP5M7ezDeBH7b4FfUxF/Xfund---mobile?type=design&node-id=1-95&t=WXhAYs1dFU0JpwHe-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A95&mode=design
 
 
